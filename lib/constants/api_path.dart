@@ -1,0 +1,1 @@
+const baseUrl = "https://demo.extensionerp.com";
